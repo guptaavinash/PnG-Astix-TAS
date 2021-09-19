@@ -167,6 +167,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"parameters": {
 					"windowStart": {
 						"type": "string"
@@ -335,6 +339,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"parameters": {
 					"windowStart": {
 						"type": "string"
@@ -503,6 +511,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"parameters": {
 					"windowStart": {
 						"type": "string"
@@ -1699,6 +1711,10 @@
 						]
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"folder": {
 					"name": "Other Pipelines"
 				},
@@ -2225,6 +2241,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"parameters": {
 					"SourceStore_Location": {
 						"type": "String"
@@ -2442,6 +2462,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"parameters": {
 					"windowStart": {
 						"type": "string"
@@ -2704,6 +2728,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"parameters": {
 					"windowStart": {
 						"type": "string"
@@ -4934,6 +4962,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"folder": {
 					"name": "Other Pipelines"
 				},
@@ -6163,6 +6195,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"parameters": {
 					"Directory": {
 						"type": "string"
@@ -6390,6 +6426,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"parameters": {
 					"SourceStore_Location": {
 						"type": "String"
@@ -6585,6 +6625,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"parameters": {
 					"SourceStore_Container": {
 						"type": "String"
@@ -6824,6 +6868,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"parameters": {
 					"SourceStore_Location": {
 						"type": "String"
@@ -7341,6 +7389,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"folder": {
 					"name": "Leap Data Pipeline"
 				},
@@ -7890,6 +7942,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"variables": {
 					"bCheckIFFileExists": {
 						"type": "Boolean"
@@ -8359,6 +8415,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"folder": {
 					"name": "TASOrder"
 				},
@@ -8808,6 +8868,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"folder": {
 					"name": "TASOrder"
 				},
@@ -9257,6 +9321,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"folder": {
 					"name": "TASOrder"
 				},
@@ -9429,6 +9497,10 @@
 						}
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"variables": {
 					"flgDone": {
 						"type": "Boolean"
@@ -10792,6 +10864,10 @@
 						]
 					}
 				],
+				"policy": {
+					"elapsedTimeMetric": {},
+					"cancelAfter": {}
+				},
 				"folder": {
 					"name": "Other Pipelines"
 				},
@@ -10806,7 +10882,7 @@
 			"apiVersion": "2018-06-01",
 			"properties": {
 				"annotations": [],
-				"runtimeState": "Started",
+				"runtimeState": "Stopped",
 				"pipelines": [
 					{
 						"pipelineReference": {
